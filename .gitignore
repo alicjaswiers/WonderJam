@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+WonderJam/Saved/Crashes/UECC-Windows-D3EC6B34476CEDB16F937D8666336804_0000/WonderJam.log
+WonderJam/Saved/Config/CrashReportClient/UECC-Windows-79DEA3EB4C8BD0DD890BFD9E1781A1F9/CrashReportClient.ini
+WonderJam/Saved/Crashes/UECC-Windows-D3EC6B34476CEDB16F937D8666336804_0000/CrashContext.runtime-xml
+WonderJam/Saved/Crashes/*
+WonderJam/Saved/Logs/*
