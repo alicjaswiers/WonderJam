@@ -70,10 +70,33 @@ Saved/*
 Intermediate/*
 Plugins/*/Intermediate/*
 
+
+
+
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+
 WonderJam/Saved/Crashes/UECC-Windows-D3EC6B34476CEDB16F937D8666336804_0000/WonderJam.log
 WonderJam/Saved/Config/CrashReportClient/UECC-Windows-79DEA3EB4C8BD0DD890BFD9E1781A1F9/CrashReportClient.ini
 WonderJam/Saved/Crashes/UECC-Windows-D3EC6B34476CEDB16F937D8666336804_0000/CrashContext.runtime-xml
 WonderJam/Saved/Crashes/*
 WonderJam/Saved/Logs/*
+*.log
+WonderJam/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+WonderJam/Saved/Config/CrashReportClient/UECC-Windows-3698D8F240709E7F28878B89FFB2F07D/CrashReportClient.ini
+WonderJam/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+WonderJam/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+WonderJam/Intermediate/ShaderAutogen/PCD3D_ES3_1/AutogenShaderHeaders.ush
+WonderJam/Intermediate/ShaderAutogen/PCD3D_SM6/*
+WonderJam/Intermediate/ShaderAutogen/PCD3D_SM5/*
+WonderJam/Intermediate/ShaderAutogen/PCD3D_ES3_1/*
+WonderJam/Intermediate/CachedAssetRegistry.bin
+WonderJam/Saved/Logs/WonderJam.log
+WonderJam/Saved/Logs/*
+Logs/*
+WonderJam/Saved/Config/CrashReportClient/UECC-Windows-491825154A091284B49AB29B2101F86B/CrashReportClient.ini
+WonderJam/Saved/Logs/WonderJam_2.log
+
+WonderJam/Saved/SourceControl/UncontrolledChangelists.json
